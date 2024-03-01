@@ -1,0 +1,11 @@
+C:\JAR_Code\GitHub\POBJ_SLO2_23_24\C#\Ex1\Ex1\bin\Debug\Ex1.exe.config
+C:\JAR_Code\GitHub\POBJ_SLO2_23_24\C#\Ex1\Ex1\bin\Debug\Ex1.exe
+C:\JAR_Code\GitHub\POBJ_SLO2_23_24\C#\Ex1\Ex1\bin\Debug\Ex1.pdb
+C:\JAR_Code\GitHub\POBJ_SLO2_23_24\C#\Ex1\Ex1\obj\Debug\Ex1.csproj.AssemblyReference.cache
+C:\JAR_Code\GitHub\POBJ_SLO2_23_24\C#\Ex1\Ex1\obj\Debug\Ex1.csproj.SuggestedBindingRedirects.cache
+C:\JAR_Code\GitHub\POBJ_SLO2_23_24\C#\Ex1\Ex1\obj\Debug\Ex1.Form1.resources
+C:\JAR_Code\GitHub\POBJ_SLO2_23_24\C#\Ex1\Ex1\obj\Debug\Ex1.Properties.Resources.resources
+C:\JAR_Code\GitHub\POBJ_SLO2_23_24\C#\Ex1\Ex1\obj\Debug\Ex1.csproj.GenerateResource.cache
+C:\JAR_Code\GitHub\POBJ_SLO2_23_24\C#\Ex1\Ex1\obj\Debug\Ex1.csproj.CoreCompileInputs.cache
+C:\JAR_Code\GitHub\POBJ_SLO2_23_24\C#\Ex1\Ex1\obj\Debug\Ex1.exe
+C:\JAR_Code\GitHub\POBJ_SLO2_23_24\C#\Ex1\Ex1\obj\Debug\Ex1.pdb
