@@ -1,3 +1,5 @@
+//#include "Figure.h"
+
 #ifndef Dessinateur_h
 #define Dessinateur_h
 
@@ -12,6 +14,8 @@ class Dessinateur {
     void SaisirPositionXY(int NoPoint);
 
     void DessinerFigure();
+
+    void DetruireFigure();
 
 
  private:

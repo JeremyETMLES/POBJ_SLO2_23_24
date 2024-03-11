@@ -10,7 +10,7 @@ void Ligne::EffectuerSaisie(int NoPoint)
     double X, Y;
     if (NoPoint == 1)
     {
-        std::cout << "Entrez la position X et Y du début de la ligne: " << std::endl;
+        std::cout << "Entrez la position X et Y du debut de la ligne: " << std::endl;
     }
     else
     {
